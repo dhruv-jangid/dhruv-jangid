@@ -8,12 +8,20 @@
 
 ## Skills
 
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/API-%230077B5.svg?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Hosting-%23FF7139.svg?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/FL%20Studio-%23F5792A.svg?style=flat-square&logo=flstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Music%20Remixing-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" />
 
 ## Stats
 
@@ -23,12 +31,15 @@
 
 ## Contritops
 
-<img src="https://github-contributor-stats.vercel.app/api?username=toxic-lmao&limit=5&theme=shadow_red&hide_border=true&combine_all_yearly_contributions=true" />
+<p>
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="150" height="1" alt="" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=toxic-lmao&limit=5&theme=shadow_red&hide_border=true&combine_all_yearly_contributions=true" alt="Contritops" />
+</p>
 
 ## Socials
 
-<a href="https://instagram.com/toxic.lmao"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@toxiclmao"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+<a href="https://instagram.com/toxic.lmao"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://x.com/dhruvvjangidd"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dhruv-jangid"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 
