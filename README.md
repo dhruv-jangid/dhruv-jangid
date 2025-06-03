@@ -25,15 +25,15 @@
 
 ## Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toxic-lmao&theme=shadow_red&hide_border=true" /><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=toxic-lmao&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxic-lmao&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-jangid&theme=shadow_red&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruv-jangid&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-jangid&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 ## Contritops
 
 <p>
   <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="150" height="1" alt="" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=toxic-lmao&limit=5&theme=shadow_red&hide_border=true&combine_all_yearly_contributions=true" alt="Contritops" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhruv-jangid&limit=5&theme=shadow_red&hide_border=true&combine_all_yearly_contributions=true" alt="Contritops" />
 </p>
 
 ## Socials
